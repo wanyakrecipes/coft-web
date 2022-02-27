@@ -47,5 +47,11 @@ vignettes/*.pdf
 #R files
 R/
 
-#
+#R proj
 *.Rproj
+
+#examplesite
+themes/hugo-split-theme/exampleSite*
+content/post*
+layouts*
+
