@@ -31,7 +31,7 @@ copyright = "&copy;2021 Councils of the Future"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background.jpg"
+      file = "images/potrait_alt.jpg"
       position = "center center"
 
     # Video
@@ -95,8 +95,8 @@ copyright = "&copy;2021 Councils of the Future"
       #  url = "#"
    
   #[[params.custom]]    
-  #  [params.custom.css]
-   # enable = true
+   # [params.custom.css]
+  #  enable = true
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.

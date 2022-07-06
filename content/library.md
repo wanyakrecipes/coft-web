@@ -2,8 +2,6 @@
 title = "library"
 +++
 
-<!--[*home*]({{< ref "_index.md" >}})--> 
-
 # Literature
 
 *Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures*. Mark Fisher. 2014. <br>
@@ -17,3 +15,5 @@ title = "library"
 *Time Tourist*. B12. 1995 <br>
 
 *Untrue*. Burial. 2007 <br>
+
+[*home*]({{< ref "_index.md" >}})
