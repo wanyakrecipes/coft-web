@@ -23,7 +23,7 @@ copyright = "&copy;2021 Councils of the Future"
   twitterHandle = "onepagelove"
 
   # Favicon
-  favicon = "favicon.ico"
+  #favicon = "favicon.ico"
 
   # Section - Visual
   [params.visual]

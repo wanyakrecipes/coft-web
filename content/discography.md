@@ -1,11 +1,21 @@
++++
+title = "discography"
++++
+
 # Councils of the Future:
 
-Microsom / Ubervert. 2021.<br>
+* [Ubervert / Microcosm](https://councilsofthefuture.bandcamp.com/releases) (2021) <br>
 
-# Appears on Sister Wanzala:
+# Appears on: 
 
-Perfume. 2022 [Link] <br>
+Marked Tones:
 
-The Circus. 2019 [Link] <br>
+* [privacy issues](https://markedtones.bandcamp.com/track/privacy-issues) (2020)
 
-Bodies on the Loose. 2016 [Link] <br>
+Sister Wanzala:
+
+* [Bodies on the Loose](https://sisterwanzala.bandcamp.com/album/bodies-on-the-loose-ep) (2016) <br>
+* [The Circus](https://sisterwanzala.bandcamp.com/album/the-circus-ep) (2019) <br>
+* [Perfume](https://sisterwanzala.bandcamp.com/track/perfume) (2022) <br>
+
+[*home.*]({{< ref "_index.md" >}})

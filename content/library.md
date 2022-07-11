@@ -2,31 +2,51 @@
 title = "library"
 +++
 
-<!--Need to create a format for this that I'm happy with. -->
-
-A list of articles, books, documentaries, films and records that continue to resonate with me. (last udpdated 11th July 2022)
+A list of articles, books, documentaries, films and records that continue to resonate with me. (last updated 11th July 2022)
 
 # Literature
 
-*Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures*. Mark Fisher. 2014. <br>
+Fisher, Mark. (2014) *Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures*. <br>
 
-*When the Body Says No: The Cost of Hidden Stress*. Gabor Mate. 2019 <br>
+Mate, Gabor. (2019) *When the Body Says No: The Cost of Hidden Stress*. <br>
 
-*Future Shock*. Alvin Toffler. 1973. <br>
+Toffler, Alvin. (1973) *Future Shock*. <br>
 
 # Audio
 
-*Time Tourist*. B12. 1995 <br>
+B12:
 
-*Untrue*. Burial. 2007 <br>
+* *Electro-Soma* (1993)
+* *Time Tourist* (1995) <br>
 
-*The Colour of Spring*. Talk Talk. 1986. <br>
 
-*Blade Runner OST*. Vangelis. 1994 <br>
+Burial:
+* *Untrue* (2007) <br>
+* *Kindred* (2012) <br>
+* *Rival Dealer* (2013) <br>
+
+Talk Talk:
+* *The Colour of Spring* (1986)
+* *Spirit of Eden* (1988)
+* *Laughing Stock* (1991)
+
+Vangelis - *Blade Runner OST* (1994) <br>
 
 
 # Visual
 
-*Cowboy Bebop*. 1999
+*2001: A Space Odyssey* (1968)
+
+*Akira* (1988)
+
+*Apocalypse Now* (1979)
+
+*Blade Runner* (1982)
+
+*Cowboy Bebop* (1998)
+
+*Ghost in the Shell* (1995)
+
+*Spirited Away* (2001)
 
 [*home.*]({{< ref "_index.md" >}})

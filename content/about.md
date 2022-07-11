@@ -1,6 +1,8 @@
-<!-- > *"Teams of men and women devoted to probing the future in the interests of the present."*
++++
+title = "about"
++++
 
-– Alvin Toffler on the function of a Council of the Future [Future Shock, pg. 404]. -->
+<!-- > *"Teams of men and women devoted to probing the future in the interests of the present."*--> 
 
 Mark Wanzala-Ryan is a multi-instrumentalist based in London who produces music under the stage name *Councils of the Future*. <br>
 
