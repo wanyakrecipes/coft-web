@@ -56,9 +56,9 @@ copyright = "&copy;2021 Councils of the Future"
         text = "bandcamp"
         url = "https://councilsofthefuture.bandcamp.com"
 
-      [[params.links.list1.link]]
-        text = "subscribe"
-        url = "#"
+     # [[params.links.list1.link]]
+      #  text = "subscribe"
+      #  url = "#"
 
   # Links List #2
   # [[params.links]]
