@@ -19,7 +19,6 @@ B12:
 * *Electro-Soma* (1993)
 * *Time Tourist* (1995) <br>
 
-
 Burial:
 * *Untrue* (2007) <br>
 * *Kindred* (2012) <br>
