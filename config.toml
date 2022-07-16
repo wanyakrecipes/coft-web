@@ -22,9 +22,6 @@ copyright = "&copy;2021 Councils of the Future"
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
 
-  # Favicon
-  #favicon = "favicon.ico"
-
   # Section - Visual
   [params.visual]
 
@@ -34,12 +31,6 @@ copyright = "&copy;2021 Councils of the Future"
       file = "images/potrait_alt.jpg"
       position = "center center"
 
-    # Video
-    #[params.visual.video]
-    #  enable = false
-    #  mute = true
-    #  file = "videos/background.mp4"
-      # youtubeId = "dk9uNWPP7EA"
 
   # Links
   #
@@ -55,48 +46,6 @@ copyright = "&copy;2021 Councils of the Future"
       [[params.links.list1.link]]
         text = "bandcamp"
         url = "https://councilsofthefuture.bandcamp.com"
-
-     # [[params.links.list1.link]]
-      #  text = "subscribe"
-      #  url = "#"
-
-  # Links List #2
-  # [[params.links]]
-  #   [params.links.list2]
-  #     heading = "Social"
-
-    #   [[params.links.list2.link]]
-     #    text = "Twitter"
-      #   url = "#"
-
-    #   [[params.links.list2.link]]
-    #     text = "Instagram"
-    #     url = "#"
-
-    #   [[params.links.list2.link]]
-    #     text = "Dribbble"
-    #     url = "#"
-
-  # Links List #3
-  #[[params.links]]
-   # [params.links.list3]
-    #  heading = "library"
-
-     # [[params.links.list3.link]]
-     #   text = "Link One"
-      #  url = "#"
-
-      #[[params.links.list3.link]]
-      #  text = "Link Two"
-      #  url = "#"
-
-      #[[params.links.list3.link]]
-       # text = "Link Three"
-      #  url = "#"
-   
-  #[[params.custom]]    
-   # [params.custom.css]
-  #  enable = true
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
