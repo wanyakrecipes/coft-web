@@ -17,10 +17,8 @@ copyright = "&copy;2021 Councils of the Future"
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
-  shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  author = "Councils of the Future"
+  description = "in the interests of the present."
 
   # Section - Visual
   [params.visual]
