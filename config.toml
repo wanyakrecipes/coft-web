@@ -19,6 +19,9 @@ copyright = "&copy;2021 Councils of the Future"
   # Metadata for search engines and social sharing
   author = "Councils of the Future"
   description = "in the interests of the present."
+  
+  # Favicon
+  favicon = "favicon.ico"
 
   # Section - Visual
   [params.visual]
