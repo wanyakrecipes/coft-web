@@ -10,13 +10,15 @@ Ballard, JG. (1971) *Vermilion Sands* <br>
 
 Camus, Albert. (1947) *The Plague*. <br>
 
-Dick, Philip K. (1968) *Do Androids Dream of Electric Sheep?*. <br>
+Dick, Philip K. (1968) *Do Androids Dream of Electric Sheep?* <br>
 
-Doblin, Alfred (1929) *Berlin Alexanderplatz*. <br>
+Doblin, Alfred. (1929) *Berlin Alexanderplatz*. <br>
 
-Fisher, Mark. (2009) *Capitalist Realism: Is there no alternative?*. <br>
+Fisher, Mark. (2009) *Capitalist Realism: Is there no alternative?* <br>
 
 Fisher, Mark. (2014) *Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures*. <br>
+
+Fisher, Mark. (2018) *K-Punk*. <br>
 
 Greene, Graham. (1958) *Our Man in Havana*. <br>
 
@@ -28,7 +30,7 @@ Newport, Cal. (2019) *Digital Minimalism*. <br>
 
 Orwell, George. (1934) *Burmese Days*. <br>
 
-Reynolds, Simon (2013) *Energy Flash*, <br>
+Reynolds, Simon (2013) *Energy Flash*. <br>
 
 Russell, Bertrand. (1935) *In Praise of Idleness*. <br>
 
@@ -36,11 +38,11 @@ Sinclair, Upton. (1906) *The Jungle*. <br>
 
 Toffler, Alvin. (1973) *Future Shock*. <br>
 
-Wilson, Colin. (1956) *The Outsider* <br>
+Wilson, Colin. (1956) *The Outsider*. <br>
 
-Zeldin, Theodore (2015) *The Hidden Pleasures of Life*. <br>
+Zeldin, Theodore. (2015) *The Hidden Pleasures of Life*. <br>
 
-Zuboff, Shoshana (2019) *The Age of Surveilance Capitalism*. <br>
+Zuboff, Shoshana. (2019) *The Age of Surveillance Capitalism*. <br>
 
 # Audio
 
