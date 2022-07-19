@@ -80,7 +80,11 @@ Vangelis - *Blade Runner OST* (1994) <br>
 
 *Cowboy Bebop* (1998)
 
+*Full Metal Jacket* (1987)
+
 *Ghost in the Shell* (1995)
+
+*Paths of Glory* (1957)
 
 *Spirited Away* (2001)
 
