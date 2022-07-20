@@ -6,7 +6,7 @@ A list of articles, books, documentaries, films and records that continue to res
 
 # Literature
 
-Ballard, JG. (1971) *Vermilion Sands* <br>
+Ballard, JG. (1971) *Vermilion Sands*. <br>
 
 Camus, Albert. (1947) *The Plague*. <br>
 
