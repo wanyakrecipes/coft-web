@@ -65,7 +65,7 @@ Talk Talk:
 * *Spirit of Eden* (1988)
 * *Laughing Stock* (1991)
 
-Tool - Lateralus (2001)
+Tool - *Lateralus* (2001) <br>
 
 Vangelis - *Blade Runner OST* (1994) <br>
 
