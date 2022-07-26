@@ -2,6 +2,10 @@
 title = "musings"
 +++
 
+Coming soon!
+
+<!--
+
 # Pleased to Meet You
 
 *Friday July 29th, 2022.*
@@ -11,5 +15,7 @@ title = "musings"
 Test text.
 
 \-
+
+-->
 
 [*home.*]({{< ref "_index.md" >}})
