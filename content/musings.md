@@ -2,6 +2,14 @@
 title = "musings"
 +++
 
-[2022-07-29. Pleased to Meet You.]({{< ref "content/post/2022-07-29-pleased-to-meet-you/index.md" >}})
+# Pleased to Meet You
+
+*Friday July 29th, 2022.*
+
+![Alt Text](https://github.com/wanyakrecipes/coft-web/blob/main/static/images/be_patient.jpg?raw=true)
+
+Test text.
+
+\-
 
 [*home.*]({{< ref "_index.md" >}})
