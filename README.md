@@ -9,3 +9,4 @@ The underlying tech of this website uses the static site generator [Hugo](https:
 - Create a footer.html for musing posts which have a link back to "musings" or the "home page".
 - Update font to Exo2, to be consistent with logo on soundcloud and bandcamp.
 - Alter the colour of text, line 125 of split.css
+- Need to work on image re-sizing, so it scales to fit half a page.
