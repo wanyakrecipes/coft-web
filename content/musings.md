@@ -4,7 +4,7 @@ title = "musings"
 
 Coming soon!
 
-<!--may need to add to the html for bio?-->
+<!--may need to add to the html for bio?-
 
 # Pleased to Meet You
 
@@ -29,3 +29,5 @@ For the first time in a long while, I understood what was in my control. My mind
 *Friday July 29th, 2022.*
 
 [*home.*]({{< ref "_index.md" >}})
+
+->
