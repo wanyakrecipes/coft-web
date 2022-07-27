@@ -89,5 +89,3 @@ Vangelis - *Blade Runner OST* (1994) <br>
 *Paths of Glory* (1957)
 
 *Spirited Away* (2001)
-
-[*home.*]({{< ref "_index.md" >}})
