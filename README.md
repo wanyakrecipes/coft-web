@@ -6,7 +6,7 @@ The underlying tech of this website uses the static site generator [Hugo](https:
 ## TODO
 - Create "musings", which contains blog posts stored in content/posts. Will need to use HTML partials from other blog website.
 - Create a footer.html for musing posts which have a link back to "musings" or the "home page".
-- Update font to Exo2, to be consistent with logo on soundcloud and bandcamp.
+- split.css - work on font sizing and thickness across all tags.
 - Alter the colour of text, line 125 of split.css
 - Need to work on image re-sizing, so it scales to fit half a page.
 - Need to add clean links to each section (so /about, not /about.html)
