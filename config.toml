@@ -6,7 +6,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Local preview mode
 relativeURLs = true
-uglyURLs = true
+uglyURLs = false
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
