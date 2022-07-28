@@ -9,6 +9,6 @@ The underlying tech of this website uses the static site generator [Hugo](https:
 - split.css - work on font sizing and thickness across all tags.
 - Alter the colour of text, line 125 of split.css
 - Need to work on image re-sizing, so it scales to fit half a page.
-- Need to add clean links to each section (so /about, not /about.html)
 - Alter footer.html so that home and gitbug have slightly larger font to credit.
 - Need to layouts/posts list.html and single.html to enable content/posts to generate automatically.
+- split.css - need to create a split-footer-links for home and github. use split-credit as a baseline.
