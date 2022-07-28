@@ -6,68 +6,70 @@ A list of articles, books, documentaries, films and records that continue to res
 
 # Literature
 
-Ballard, JG. (1971) *Vermilion Sands*. <br>
+Ballard, JG. (1971) *Vermilion Sands*. 
 
-Camus, Albert. (1947) *The Plague*. <br>
+Camus, Albert. (1947) *The Plague*. 
 
-Dick, Philip K. (1968) *Do Androids Dream of Electric Sheep?* <br>
+Dick, Philip K. (1968) *Do Androids Dream of Electric Sheep?* 
 
-Doblin, Alfred. (1929) *Berlin Alexanderplatz*. <br>
+Doblin, Alfred. (1929) *Berlin Alexanderplatz*. 
 
-Fisher, Mark. (2009) *Capitalist Realism: Is there no alternative?* <br>
+Fisher, Mark. (2009) *Capitalist Realism: Is there no alternative?* 
 
-Fisher, Mark. (2014) *Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures*. <br>
+Fisher, Mark. (2014) *Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures*. 
 
-Fisher, Mark. (2018) *K-Punk*. <br>
+Fisher, Mark. (2018) *K-Punk*. 
 
-Greene, Graham. (1958) *Our Man in Havana*. <br>
+Graeber, David. (2018) *Bullshit Jobs*.
 
-Klein, Naomi. (2000) *No Logo*. <br>
+Greene, Graham. (1958) *Our Man in Havana*. 
 
-Mate, Gabor. (2019) *When the Body Says No: The Cost of Hidden Stress*. <br>
+Klein, Naomi. (2000) *No Logo*. 
 
-Newport, Cal. (2019) *Digital Minimalism*. <br>
+Mate, Gabor. (2019) *When the Body Says No: The Cost of Hidden Stress*. 
 
-Orwell, George. (1934) *Burmese Days*. <br>
+Newport, Cal. (2019) *Digital Minimalism*. 
 
-Reynolds, Simon (2013) *Energy Flash*. <br>
+Orwell, George. (1934) *Burmese Days*. 
 
-Russell, Bertrand. (1935) *In Praise of Idleness*. <br>
+Reynolds, Simon (2013) *Energy Flash*. 
 
-Sinclair, Upton. (1906) *The Jungle*. <br>
+Russell, Bertrand. (1935) *In Praise of Idleness*. 
 
-Toffler, Alvin. (1973) *Future Shock*. <br>
+Sinclair, Upton. (1906) *The Jungle*. 
 
-Wilson, Colin. (1956) *The Outsider*. <br>
+Toffler, Alvin. (1973) *Future Shock*. 
 
-Zeldin, Theodore. (2015) *The Hidden Pleasures of Life*. <br>
+Wilson, Colin. (1956) *The Outsider*. 
 
-Zuboff, Shoshana. (2019) *The Age of Surveillance Capitalism*. <br>
+Zeldin, Theodore. (2015) *The Hidden Pleasures of Life*. 
+
+Zuboff, Shoshana. (2019) *The Age of Surveillance Capitalism*. 
 
 # Audio
 
 B12:
 
 * *Electro-Soma* (1993)
-* *Time Tourist* (1995) <br>
+* *Time Tourist* (1995) 
 
 Burial:
-* *Untrue* (2007) <br>
-* *Kindred* (2012) <br>
-* *Rival Dealer* (2013) <br>
+* *Untrue* (2007) 
+* *Kindred* (2012) 
+* *Rival Dealer* (2013) 
 
 Global Communication:
-* *Pentamerous Metamorphosis* (1993) <br>
-* *76:14* (1994) <br>
+* *Pentamerous Metamorphosis* (1993) 
+* *76:14* (1994) 
 
 Talk Talk:
 * *The Colour of Spring* (1986)
 * *Spirit of Eden* (1988)
 * *Laughing Stock* (1991)
 
-Tool - *Lateralus* (2001) <br>
+Tool - *Lateralus* (2001) 
 
-Vangelis - *Blade Runner OST* (1994) <br>
+Vangelis - *Blade Runner OST* (1994) 
 
 
 # Visual
