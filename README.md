@@ -11,4 +11,5 @@ The underlying tech of this website uses the static site generator [Hugo](https:
 - Need to work on image re-sizing, so it scales to fit half a page.
 - Alter footer.html so that home and gitbug have slightly larger font to credit.
 - Need to layouts/posts list.html and single.html to enable content/posts to generate automatically.
-- split.css - need to create a split-footer-links for home and github. use split-credit as a baseline.
+- split.css - need to create a split-footer-links for home and github. use split-credit as a baseline. perhaps make the colour soft-pink as well.
+- Experiment moving about, discography, library, musings to list akin to music links.
