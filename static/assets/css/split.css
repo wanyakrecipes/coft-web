@@ -190,7 +190,7 @@ body.page-template-page-fullsingle-split p {
   line-height: 16px;
   margin-bottom: 40px;
   letter-spacing: 0.4px;
-  color: #FFB8BF;
+  color: #FFB8BF; /*Alt Pink #FFB8BF #F6C6BD*/
 }
 .split-intro .tagline {
   color: #CCCCCC;
@@ -356,6 +356,17 @@ body.page-template-page-fullsingle-split p {
 .split-lists .split-list ul li a:hover {
   color: #CA486d;
   transition-duration: 0.1s;
+}
+
+.split-footer {
+  opacity: 0.6;
+}
+.split-footer p {
+  font-size: 15px;
+  line-height: 14px;
+}
+.split-footer p a {
+  color: #FFB8BF; /*Alt Pink #FFB8BF #F6C6BD*/
 }
 
 .split-credit {
