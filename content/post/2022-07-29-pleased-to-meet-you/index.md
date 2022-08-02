@@ -1,8 +1,8 @@
 ---
 title: Pleased to Meet You
-author: R package build
+author: Councils of the Future
 date: '2022-07-29'
-slug: []
+slug: pleased-to-meet-you
 categories: []
 tags: []
 ---

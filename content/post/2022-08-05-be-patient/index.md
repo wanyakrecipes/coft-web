@@ -2,7 +2,7 @@
 title: Be Patient.
 author: Councils of the Future
 date: '2022-08-05'
-slug: []
+slug: be-patient
 categories: []
 tags: []
 ---
