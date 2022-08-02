@@ -51,7 +51,7 @@ copyright = "&copy;2022 Councils of the Future"
         
       [[params.links.list1.link]]
         text = "musings"
-        url = "/post"
+        url = "/post/"
 
 [privacy] #https://gohugo.io/about/hugo-and-gdpr/#all-privacy-settings
   [privacy.disqus]
