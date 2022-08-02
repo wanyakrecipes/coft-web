@@ -49,9 +49,9 @@ copyright = "&copy;2022 Councils of the Future"
         url = "https://councilsofthefuture.bandcamp.com"
         
         
-      [[params.links.list1.link]]
-        text = "musings"
-        url = "/post/"
+      #[[params.links.list1.link]]
+      #  text = "musings"
+       # url = "/post/"
 
 [privacy] #https://gohugo.io/about/hugo-and-gdpr/#all-privacy-settings
   [privacy.disqus]
