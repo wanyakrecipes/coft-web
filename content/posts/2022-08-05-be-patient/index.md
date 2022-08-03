@@ -1,6 +1,6 @@
 +++
 title = "Be Patient"
-date = "2022-08-03"
+date = "2022-08-19"
 publishdate = "2022-08-03"
 slug = "be-patient"
 draft = "false"
