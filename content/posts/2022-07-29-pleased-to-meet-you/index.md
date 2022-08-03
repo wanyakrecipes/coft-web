@@ -22,6 +22,8 @@ I really appreciated the stillness. I had an unusual level of focus, resulting f
 
 For the first time in a long while, I understood what was in my control. My mind wondered, and I felt at ease going from place to place. It led to a few life decisions which I’ve mainly stuck too.
 
+Listen now on: [Soundcloud](https://soundcloud.com/councils-of-the-future/pleased-to-meet-you/s-s7BMRDr4pFF?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing).
+
 \-
 
 *Friday August 12th, 2022.*
