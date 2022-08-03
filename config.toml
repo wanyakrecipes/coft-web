@@ -2,7 +2,7 @@ theme = "hugo-split-theme"
 baseURL = 'https://councilsofthefuture.org/'
 languageCode = 'en-us'
 title = 'Councils of the Future'
-disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "sitemap"] #remove section disable
 
 # Local preview mode
 relativeURLs = true
