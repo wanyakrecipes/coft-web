@@ -1,27 +1,17 @@
----
-title: Pleased to Meet You
-author: Councils of the Future
-date: '2022-07-29'
-slug: pleased-to-meet-you
-categories: []
-tags: []
----
++++
+title = "Pleased to Meet You"
+date = "2022-08-12"
+publishdate = "2022-08-12"
+slug = "pleased-to-meet-you"
+draft = "false"
++++
 
 <!--
 ideas - talk about creating this song in isolation. 
 
-use ideas from "the problem of oversatures" as that's where those musings are from
 -->
 
-<!--may need to add to the html for bio?-
-
-# Pleased to Meet You
-
-<div class="split-image">
-
-![Pleased to Meet You artwork](https://github.com/wanyakrecipes/coft-web/blob/main/static/images/pleased_to_meet_you.JPG?raw=true)
-
-</div>
+![Pleased to Meet You artwork](pleased_to_meet_you_artwork.png)
 
 
 I produced this song when I contracted Covid for the very first time earlier this year. 
@@ -32,11 +22,9 @@ I really appreciated the stillness. I had an unusual level of focus, resulting f
 
 For the first time in a long while, I understood what was in my control. My mind wondered, and I felt at ease going from place to place. It led to a few life decisions which I’ve mainly stuck too.
 
-
 \-
 
-*Friday July 29th, 2022.*
+*Friday August 12th, 2022.*
 
-[*home.*]({{< ref "_index.md" >}})
+[*musings*]({{< ref "posts/_index.md" >}}).
 
-->
