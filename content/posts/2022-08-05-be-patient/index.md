@@ -1,19 +1,14 @@
----
-title: Be Patient.
-author: Councils of the Future
-date: '2022-08-05'
-slug: be-patient
-categories: []
-tags: []
----
++++
+title = "Be Patient"
+date = "2022-08-19"
+publishdate = "2022-08-19"
+slug = "be-patient"
+draft = "true"
++++
 
 ## Tool. O2 Arena, London. Monday 9th – Tuesday 10th May 2022.
 
-<!--<div class="split-image">-->
-
-![Text](https://github.com/wanyakrecipes/coft-web/blob/main/static/images/be_patient.jpg?raw=true)
-
-<!--</div>-->
+![Right in Two visual scribbled in notebook.](be_patient.png)
 
 Sat top tier to the left on Monday. Sat dead centre lower tier on Tuesday.
 
@@ -51,8 +46,6 @@ Maynard's vocal were the perfect mix of reverberated and clear. Distant and pres
 
 \-
 
-*Friday August 5th, 2022.*
+*Friday August 19th, 2022.*
 
-See more [*musings.*]({{< ref "musings.md" >}}) 
-
-Back [*home.*]({{< ref "_index.md" >}})
+[*musings*]({{< ref "posts/_index.md" >}}).
