@@ -43,9 +43,3 @@ The band setup on stage is so good. The space in the middle being vacated means 
 *Culling Voices*. It was a lovely touch when they all sat on stools playing. Danny Carey playing guitar, cradling like he would a small child. Was a nice touch at the end of the second night when he brought his kids on stage. 
 
 Maynard's vocal were the perfect mix of reverberated and clear. Distant and present. His pitch, especially in high registers, was angelic.
-
-\-
-
-*Friday August 19th, 2022.*
-
-[*musings*]({{< ref "posts/_index.md" >}}).
