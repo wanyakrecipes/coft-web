@@ -4,6 +4,7 @@ date = "2022-08-19"
 publishdate = "2022-08-03"
 slug = "be-patient"
 draft = "false"
+credits = ""
 +++
 
 ## Tool. O2 Arena, London. Monday 9th – Tuesday 10th May 2022.

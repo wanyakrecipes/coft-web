@@ -4,6 +4,7 @@ date = "2022-08-12"
 publishdate = "2022-08-03"
 slug = "pleased-to-meet-you"
 draft = "false"
+credits = "Artwork by Tania Cherkez."
 +++
 
 <!--

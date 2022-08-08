@@ -3,8 +3,12 @@
 <div class="split-bio">
   {{ .Content }}
   <p>-</p>
+  </div>
+  <div class="split-footer">
   <p>{{.Date.Format "Monday January 2, 2006"}}</p>
-</div>
+  <br>
+  <p>{{.Params.credits}}</p>
+  </div>
 <br>
 
 {{ end }}
