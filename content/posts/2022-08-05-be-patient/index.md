@@ -1,7 +1,7 @@
 +++
 title = "Be Patient: Tool Live"
-date = "2022-08-19"
-publishdate = "2022-08-19"
+date = "2022-08-12"
+publishdate = "2022-08-10"
 slug = "be-patient"
 draft = "false"
 credits = ""
