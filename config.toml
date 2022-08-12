@@ -29,7 +29,7 @@ copyright = "&copy;2022 Councils of the Future"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/potrait_alt.jpg"
+      file = "images/rand_sketch_rev_white_black_bg.png"
       position = "center center"
 
 
