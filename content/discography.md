@@ -4,6 +4,7 @@ title = "discography"
 
 # Councils of the Future:
 
+* Pleased to Meet You (2022)
 * [Ubervert / Microcosm](https://councilsofthefuture.bandcamp.com/releases) (2021)
 
 # Appears on: 
