@@ -15,7 +15,7 @@ Sat top tier to the left on Monday. Sat dead centre lower tier on Tuesday.
 
 The moment when *Fear Inoculum* started was incredibly emotional. The moment when Maynard started singing was spine tingling. The sunset lighting, a piercing orange sun with a volcanic energy, was beautiful.
 
-I can’t believe I saw them play *The Grudge*, *Mantra* and *The Patient*…in a row. *The Patient* was the first Tool song I really liked.
+I can’t believe I saw them play *The Grudge*, *Eon Blue Apocalypse* and *The Patient*…in a row. *The Patient* was the first Tool song I really liked.
 
 Maynard absolutely nailed *I must persuade you another way* during *Pushit*… on both nights.
 
@@ -35,7 +35,7 @@ It was special to see an elite band who are unashamedly themselves, playing at a
 
 He did the scream during *The Grudge*. AHHHHHHHHHHHHHHHHH.
 
-They played so many unexpected songs. *Ticks and Leeches*. *Hooker with a Penis*, *The Grudge*, *Mantra*, *The Patient*, *Right In Two*, *Sober*, *Undertow*, *Opiate*, *The Pot*. The song selection really complimented the new album.
+They played so many unexpected songs. *Ticks and Leeches*. *Hooker with a Penis*, *The Grudge*, *Eon Blue Apocalypse*, *The Patient*, *Right In Two*, *Sober*, *Undertow*, *Opiate*, *The Pot*. The song selection really complimented the new album.
 
 The band radiated energy even though they don’t move a lot. I really like Justin Chancellor’s quarter mosh, like he’s pushing and pulling with an invisible force. Danny Carey hits the drums so hard, but with incredible level of precision. Adam Jones right hand has the energy of a punch from a heavyweight boxer. Maynard is a spectral presence stood behind the band.
 
