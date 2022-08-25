@@ -15,19 +15,19 @@ credits = ""
 
 2.55pm. 6Music Stage. Mary Anne Hobbs. Old hands, aviators, *Autobahn* t-shirt. New Order’s *Blue Monday*. *Now I stand here waiting*…
 
-3:02pm. Ray-Ban West Stage, right underneath the sun. Artwork b2b CC:DISCO! Are Hawaiian shirts in vogue or did they never go away?
+3:02pm. West Stage. Underneath the sun. Artwork b2b CC:DISCO! Are Hawaiian shirts in vogue or did they never go away?
 
 3:13pm. Bros ask me if this is the East Stage. I confirm that it’s not and point them in the other direction.
 
 3:21pm. I feel a little liquid sprinkle the back of my calf.
 
-3:35pm. A gentleman kissing all his bros on the neck. Very tender, very cute.
+3:35pm. A gentleman kissing all his bros on the neck. So tender and with utmost care.
 
 3:45pm. Said gentleman prepares his little spoon. Spatial awareness is low.
 
 3:49pm. Artwork and a sound technician are debating vigorously.
 
-3:50pm. Bros pile into my general zone and I’m forced out. Invading the space. Chill.
+3:50pm. Bros pile into my general zone and I’m forced out. <!--Invading the space.--> Chill.
 
 3.58pm. First pit-stop. Guy slots in next to me and touches my toes. Seriously have we forgotten about spatial awareness?
 
@@ -57,7 +57,7 @@ credits = ""
 
 5:23pm. Asked at the bar if they sold soda. Only sold canned water for £2.50. Soda for mixing only. I bought one cause I’m a sucker. In Balham, I once paid £5 for an orange juice poured out of carton you’d find in Costco.
 
-5:31pm. North Stage. Squarepusher. Back against the barrier, in front of sound desk. 
+5:31pm. North Stage. Squarepusher. Back against the barrier, in front of the sound desk. 
 
 5:43pm. Squarepusher seems to combine Aphex Twin, bleep, chords that echo Miles Davis’s *In a Silent Way* and math rock.
 
@@ -71,7 +71,7 @@ credits = ""
 
 6:39pm. Obtain a plant-based cookie dough brownie and chew it over Rebekah’s hard as nails set on the 6Music Stage. Purchase another canned water because I’m a sucker.
 
-6:45pm. East Stage. Carl Craig b2b Moodymann. Back against the barrier to left of the sound desk. Notice it’s Carl Craig *sans* Moodymann. Carl is wearing top hat, a lovely light printed cardigan, black tee, two beaded necklaces that appear to interlock, and tinted sunglasses.
+6:45pm. West Stage. Carl Craig b2b Moodymann. Back against the barrier to right of the sound desk. Notice it’s Carl Craig *sans* Moodymann. Carl is wearing a top hat, a lovely light printed cardigan, black tee, two beaded necklaces that appear to interlock, and tinted sunglasses.
 
 6:56pm. Moodymann tags in. Grey hoody, white round glasses, towel draped over his right shoulder. Through his grey face mask, he asks, “Hey, how you feeling out there?”
 
@@ -85,7 +85,7 @@ credits = ""
 
 7:20pm. Carl Craig and Moodymann end with Yes’s *Owner of Lonely Heart*. Moodymann suggests ominously, “you know what time it is...”
 
-7:23pm. Second pit-stop. Among the beer cans lays someone’s bucket hat. Man reflects that he lost his sunglasses in similar circumstances. They were only £40, not £100, so it wasn’t a disaster.
+7:23pm. Second pit-stop. Among the beer cans lays someone’s bucket hat. Man reflects that he lost his sunglasses in similar circumstances. He reflects that they were only £40, not £100, so it wasn’t a disaster.
 
 7:30pm. Several men erect Kraftwerk’s giant screen.
 
@@ -93,7 +93,7 @@ credits = ""
 
 7:56pm. I can hear eerie ambient sounds. The screen appears to be undergoing an initialising sequence, with four geometric blobs on screen. 
 
-8:00pm-9:10pm. East Stage. Kraftwerk. Front left, ten rows from the front. Crisp, clean and concise. The graphics are hi-fi in detail but have a warm lo-fi aesthetic. The shadows of the band on their workstations become part of each scene. Combined with the 3D glasses, I experience some wonderful moments. *The Main Machine* models reaching out to the audience. A spaceship venturing its way to Field Day. Riding on the *Autobahn*. A film noir cycling montage during *Tour de France*. Vocals are extraordinary throughout. The vocoder on *The Main Machine* chorus is a delight. There’s a dispassionate and functional quality to Ralf Hütter’s vocals, but this allows their messages to cut through, many of which have come to pass:
+8:00pm-9:10pm. West Stage. Kraftwerk. Front left, ten rows from the front. Crisp, clean and concise. The graphics are hi-fi in detail but have a warm lo-fi aesthetic. The shadows of the band on their workstations become part of each scene. Combined with the 3D glasses, I experience some wonderful moments. *The Main Machine* models reaching out to the audience. A spaceship venturing its way to Field Day. Riding on the *Autobahn*. A film noir cycling montage during *Tour de France*. Vocals are extraordinary throughout. The vocoder on *The Main Machine* chorus is a delight. There’s a dispassionate and functional quality to Ralf Hütter’s vocals, but this allows their messages to cut through, many of which have come to pass:
 
 *I call this number / for a data date.*
 
