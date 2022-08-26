@@ -19,9 +19,9 @@ credits = ""
 
 3:13pm. Bros ask me if this is the East Stage. I confirm that it’s not and point them in the other direction.
 
-3:21pm. I feel a little liquid sprinkle the back of my calf.
+3:21pm. A bit of liquid sprinkles the back of my calf.
 
-3:35pm. A gentleman kissing all his bros on the neck. So tender and with utmost care.
+3:35pm. A gentleman tenderly kissing all his bros on the neck. An activity undertaken with the utmost care.
 
 3:45pm. Said gentleman prepares his little spoon. Spatial awareness is low.
 
@@ -43,7 +43,7 @@ credits = ""
 
 4:30pm. Fifth person to ask me if this is the North Stage.
 
-4:35pm. A gentleman is wearing a t-shirt with the storyline to *One Who Flew Over the Cuckoo’s Nest*.
+4:35pm. A gentleman is wearing a t-shirt with the story line to *One Who Flew Over the Cuckoo’s Nest*.
 
 4:48pm. Several people have pleaded with the sound desk to turn it up because too many people are talking.
 
@@ -59,7 +59,7 @@ credits = ""
 
 5:31pm. North Stage. Squarepusher. Back against the barrier, in front of the sound desk. 
 
-5:43pm. Squarepusher seems to combine Aphex Twin, bleep, chords that echo Miles Davis’s *In a Silent Way* and math rock.
+5:43pm. Squarepusher seems to combine Aphex Twin, bleep, chords that echo Miles Davis’s *In a Silent Way*, and math rock.
 
 6:00pm. I’m guessing this is what a car journey with Vaughan from JG Ballard’s *Crash* would sound like. Exhilarating, death-defying, risqué.
 
@@ -71,7 +71,7 @@ credits = ""
 
 6:39pm. Obtain a plant-based cookie dough brownie and chew it over Rebekah’s hard as nails set on the 6Music Stage. Purchase another canned water because I’m a sucker.
 
-6:45pm. West Stage. Carl Craig b2b Moodymann. Back against the barrier to right of the sound desk. Notice it’s Carl Craig *sans* Moodymann. Carl is wearing a top hat, a lovely light printed cardigan, black tee, two beaded necklaces that appear to interlock, and tinted sunglasses.
+6:45pm. West Stage. Carl Craig b2b Moodymann. Back against the barrier to the right of the sound desk. Notice it’s Carl Craig *sans* Moodymann. Carl is wearing a top hat, a lovely light printed cardigan, black tee, two beaded necklaces that appear to interlock, and tinted sunglasses.
 
 6:56pm. Moodymann tags in. Grey hoody, white round glasses, towel draped over his right shoulder. Through his grey face mask, he asks, “Hey, how you feeling out there?”
 
@@ -83,7 +83,7 @@ credits = ""
 
 7:17pm. An older gentleman hands out cans of water to his pals on a tray embossed with the *Red-Stripe* logo.
 
-7:20pm. Carl Craig and Moodymann end with Yes’s *Owner of Lonely Heart*. Moodymann suggests ominously, “you know what time it is...”
+7:20pm. Carl Craig and Moodymann end with Yes’s *Owner of a Lonely Heart*. Moodymann suggests ominously, “you know what time it is...”
 
 7:23pm. Second pit-stop. Among the beer cans lays someone’s bucket hat. Man reflects that he lost his sunglasses in similar circumstances. He reflects that they were only £40, not £100, so it wasn’t a disaster.
 
@@ -93,7 +93,7 @@ credits = ""
 
 7:56pm. I can hear eerie ambient sounds. The screen appears to be undergoing an initialising sequence, with four geometric blobs on screen. 
 
-8:00pm-9:10pm. West Stage. Kraftwerk. Front left, ten rows from the front. Crisp, clean and concise. The graphics are hi-fi in detail but have a warm lo-fi aesthetic. The shadows of the band on their workstations become part of each scene. Combined with the 3D glasses, I experience some wonderful moments. *The Main Machine* models reaching out to the audience. A spaceship venturing its way to Field Day. Riding on the *Autobahn*. A film noir cycling montage during *Tour de France*. Vocals are extraordinary throughout. The vocoder on *The Main Machine* chorus is a delight. There’s a dispassionate and functional quality to Ralf Hütter’s vocals, but this allows their messages to cut through, many of which have come to pass:
+8:00pm-9:10pm. West Stage. Kraftwerk. Front left, ten rows from the front. Crisp, clean and concise. The graphics are hi-fi in detail but have a warm lo-fi aesthetic. The shadows of the band on their workstations become part of each scene. Combined with 3D glasses, I experience some wonderful moments. *The Main Machine* models reaching out to the audience. A spaceship venturing its way to Field Day. Riding on the *Autobahn*. A film noir cycling montage during *Tour de France*. Vocals are extraordinary throughout. The vocoder on *The Main Machine* chorus is a delight. There’s a dispassionate and functional quality to Ralf Hütter’s vocals, but this allows their messages to cut through, many of which have come to pass:
 
 *I call this number / for a data date.*
 
@@ -105,7 +105,7 @@ credits = ""
 
 *Music Non-Stop* finishes with a visual of musical notes drifting through the ether. Each band member leaves the stage, taking a bow and the acclaim. "*Goodbye. Auf wiedersehen.*" The last words from Ralf Hütter, the traditional Kraftwerk ending. I shed a tear. 
 
-9:20pm-9.50pm. Purchase chips. Sit on a bench. Speak with an older woman who’s lost her friends. She asks me, “*what are you looking for?* ” She takes a sip from my water bottle and puts it in her bag. Subsequently, I find £20 on the floor and depart.
+9:20pm-9.50pm. Purchase chips. Sit on a bench. Speak with an older woman who’s lost her friends. She asks me, “*what are you looking for?* ” She takes a sip from my water bottle and puts it in her bag. Subsequently, I find £20 on the floor and depart the scene.
 
 9:54pm. On my way out, three ladies sneak past security. After a five second delay, security begin the chase. I don’t stay for the ending.
 
