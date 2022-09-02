@@ -8,7 +8,7 @@ credits = "Artwork by Tania Cherkez."
 +++
 
 
-![Pleased to Meet You artwork](pleased_to_meet_you_artwork.png)
+![Pleased to Meet You artwork](pleased_to_meet_you_artwork.jpg)
 
 I produced this song when I contracted Covid for the very first time earlier this year. 
 
