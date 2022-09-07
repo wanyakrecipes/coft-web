@@ -95,13 +95,13 @@ credits = ""
 
 8:00pm-9:10pm. West Stage. Kraftwerk. Front left, ten rows from the front. Crisp, clean and concise. The graphics are hi-fi in detail but have a warm lo-fi aesthetic. The shadows of the band on their workstations become part of each scene. Combined with 3D glasses, I experience some wonderful moments. *The Main Machine* models reaching out to the audience. A spaceship venturing its way to Field Day. Riding on the *Autobahn*. A film noir cycling montage during *Tour de France*. Vocals are extraordinary throughout. The vocoder on *The Main Machine* chorus is a delight. There’s a dispassionate and functional quality to Ralf Hütter’s vocals, but this allows their messages to cut through, many of which have come to pass:
 
-*I call this number / for a data date.*
-
-*Business, numbers / money, people.*
-
-*We are programmed just to do / anything you want us to.*
-
-*Man Machine / pseudo-human being.*
+> *I call this number / for a data date.*
+>
+> *Business, numbers / money, people.*
+>
+> *We are programmed just to do / anything you want us to.*
+>
+> *Man Machine / pseudo-human being.*
 
 *Music Non-Stop* finishes with a visual of musical notes drifting through the ether. Each band member leaves the stage, taking a bow and the acclaim. "*Goodbye. Auf wiedersehen.*" The last words from Ralf Hütter, the traditional Kraftwerk ending. I shed a tear. 
 
