@@ -2,7 +2,7 @@
 title = "library"
 +++
 
-A list of articles, books, documentaries, films and records that continue to resonate with me. (last updated 19th July 2022)
+A list of articles, books, documentaries, films and records that continue to resonate with me. (last updated 7th September 2022)
 
 # Literature
 
@@ -39,6 +39,8 @@ Russell, Bertrand. (1935) *In Praise of Idleness*.
 Sinclair, Upton. (1906) *The Jungle*. 
 
 Toffler, Alvin. (1973) *Future Shock*. 
+
+Toop, David. (1995) *Ocean of Sound: Aether Talk, Ambient Sound and Imaginary Worlds*.
 
 Wilson, Colin. (1956) *The Outsider*. 
 
