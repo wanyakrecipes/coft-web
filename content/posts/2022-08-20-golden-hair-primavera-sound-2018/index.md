@@ -35,7 +35,7 @@ credits = ""
 
 *Skepta*. Front right segment. Ten rows from the front. Decked out in all whites, perhaps he was one of the troupe of flutists performing with Björk. Only there because the Migos *missed their flight*. 3am after A$AP Rocky. *Detox* is simultaneously menacing and pleasant – makes me chuckle. *Skepta* raps like it really matters – *don’t sweat the technique*.
 
-Recommended tracks: <!--Spotify Link-->
+Recommended tracks: <!--Spotify Link or embedded spotify playlist?-->
 
 * Björk – Arisen My Senses
 * Gaika – Basic Volume
