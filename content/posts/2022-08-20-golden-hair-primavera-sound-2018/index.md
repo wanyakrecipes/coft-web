@@ -11,9 +11,11 @@ credits = ""
 
 ![Vince staples on stage at night.](golden_hair.png)
 
-"*Lean out of the window, golden hair.*" 
+<!-- > "Lean out of the window, golden hair." - *Syd Barret* -->
 
-– Syd Barret.
+> "Lean out of the window, golden hair."
+>
+> *Syd Barret*
 
 *Barcelona*. On my lonesome.
 
