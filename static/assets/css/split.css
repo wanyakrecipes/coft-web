@@ -54,7 +54,7 @@ q:before, q:after {
 blockquote, q {  
   margin: 0;  
   padding-left: 1.4rem;  
-  font-size: 21px; /*.size of main font is 21, could try 18 for this or smaller font size*/
+  font-size: 17px; /*.size of main font is 21, could try 18 for this or smaller font size*/
   border-left: 4px solid #FFB8BF; }
 
 table {
@@ -120,7 +120,7 @@ body.page-template-page-fullsingle-split {
   background-color: #000000;
   font-family: "Exo 2", sans-serif;
   font-weight: 400;
-  font-size: 21px; /* this controls the font size*/
+  font-size: 17px; /* this controls the font size*/
   line-height: 33px;
   letter-spacing: -0.2px;
   color: #848d96;
