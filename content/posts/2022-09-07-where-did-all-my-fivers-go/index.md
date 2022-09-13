@@ -1,7 +1,7 @@
 +++
 title = "Where Did All My Fivers Go?"
-date = "2022-09-09"
-publishdate = "2022-09-09"
+date = "2022-09-23"
+publishdate = "2022-09-23"
 slug = "where-did-all-my-fivers-go"
 draft = "true"
 credits = ""
