@@ -3,7 +3,7 @@ title = "Where Did All My Fivers Go?"
 date = "2022-09-23"
 publishdate = "2022-09-23"
 slug = "where-did-all-my-fivers-go"
-draft = "true"
+draft = "false"
 credits = ""
 +++
 
@@ -15,7 +15,7 @@ credits = ""
 >
 > *Tool*
 
-*Where did all my fivers go?* Bigg Market. Floritas. Beeju. The Gate. Salt and Pepper. Aspers. Digital. Gotham. Venue. Players. Skittles. CCTV. Tiger. Popworld. World Headquarters. Sinners. Riverside. Chase. Cosmic Ballroom. Propaganda. Bar 42. Basement. Hancock. Sam Jack's.
+*Where did all my fivers go?* Bigg Market. Florita's. Bijoux. The Gate. Salt and Pepper. Aspers. Digital. Gotham. Venue. Players. Skittles. CCTV. Tiger. Popworld. World Headquarters. Perdu. Sinners. Riverside. Trebles. Chase. Cosmic Ballroom. Propaganda. Bar 42. Basement. Hancock. Sam Jacks.
 
 *Run*. I ran away from nights out quite often. I remember queuing for Digital. It was a friend’s birthday. As I ventured towards the front, my mind *compelled* me to leave. I was on rails, and the destination was home.
 
@@ -25,6 +25,6 @@ credits = ""
 
 *Riverside*. I stood on the balcony, overlooking the dancefloor, speaking to no one.  
 
-*Where is <!--Mark--> Home*? I must have confused a lot of people. I tried to explain why…perhaps once properly. I lacked the vocabulary. I recall confiding in a friend of mine about my dislike of *going out*. Now I realise my definition of going out was skewed towards a particular type of going out. Other ways of going out existed but like the *Age of Empires* I had yet to discover other lands. I was stuck in a particular mode, and it felt easier to continue to make failed attempts.
+*Where is Home*? I must have confused a lot of people. I tried to explain why…perhaps once properly. I lacked the vocabulary. I recall confiding in a friend of mine about my dislike of *going out*. Now I realise my definition of going out was skewed towards a particular type of going out. Other ways of going out existed but like the *Age of Empires* I had yet to discover these lands. I was stuck in a particular mode, and it felt easier to continue to make failed attempts.
 
 I repeated until I could gather all my fivers off sticky floors into a collage of frustrating memories.
