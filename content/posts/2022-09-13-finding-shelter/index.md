@@ -3,7 +3,7 @@ title = "Finding Shelter"
 date = "2022-09-16"
 publishdate = "2022-09-16"
 slug = "finding-shelter"
-draft = "true"
+draft = "false"
 credits = ""
 +++
 
@@ -11,7 +11,11 @@ credits = ""
 
 ![Legs with jazzy sock resting on a cushion next to plants](finding_shelter.png)
 
+I recently moved house. The following utterance encapsulates my experience:
+
 > "Here’s the bike shelter. You can use it free of charge, of course."
 >
-> *Agent for a residential rental company.*
+> *Unnamed agent*
+
+<!-- *Agent for a residential rental company.*-->
 
