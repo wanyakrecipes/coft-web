@@ -7,8 +7,6 @@ draft = "false"
 credits = ""
 +++
 
-<!--Not sure if title should reference a song -->
-
 ![Legs with jazzy sock resting on a cushion next to plants](finding_shelter.png)
 
 I recently moved house. The following utterance encapsulates my experience:
@@ -16,6 +14,4 @@ I recently moved house. The following utterance encapsulates my experience:
 > "Here’s the bike shelter. You can use it free of charge, of course."
 >
 > *Unnamed agent*
-
-<!-- *Agent for a residential rental company.*-->
 
