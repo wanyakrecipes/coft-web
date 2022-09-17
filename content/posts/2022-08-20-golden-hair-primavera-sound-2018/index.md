@@ -23,7 +23,7 @@ credits = ""
 
 *Björk*. Front right segment. Back against the barrier. The setup was more than intriguing. Everyone wore white. Dancing flutists. An electric drum kit. *Arisen My Senses* really caught me. Heavy strobe and heavenly vocals.
 
-*Vince Staples*. Ten rows from the front. Central. Intro tape simmered with the background bed to *Get the F--- off My Dick*, which he’d just released. “Primavera”, he stated factually, entering his arena. Dressed in Kevlar in front of several dimly lit TVs, Vince’s outline prowled the stage.
+*Vince Staples*. Ten rows from the front. Central. Intro tape simmered with the background bed to *Get the F--- off My D---*, which he’d just released. “Primavera”, he stated factually, entering his arena. Dressed in Kevlar in front of several dimly lit TVs, Vince’s outline prowled the stage.
 
 *Mogwai*. In front of the sound desk. Back against the barrier. I called my brother during the *Hawk Is Howling*. The track becomes stuck in loop. Reminds me of dreams when I can’t stand up. The release is how I imagine it feels to finally make it back on my feet. 
 
