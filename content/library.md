@@ -2,9 +2,11 @@
 title = "library"
 +++
 
-A list of articles, books, documentaries, films and records that continue to resonate with me. (last updated 7th September 2022)
+A list of articles, books, documentaries, films and records that continue to resonate with me. (last updated 6th October 2022)
 
 # Literature
+
+Alegre, Susie. (2022) *Freedom to Think: The Long Struggle to Liberate Our Minds*
 
 Ballard, JG. (1971) *Vermilion Sands*. 
 
@@ -43,6 +45,8 @@ Toffler, Alvin. (1973) *Future Shock*.
 Toop, David. (1995) *Ocean of Sound: Aether Talk, Ambient Sound and Imaginary Worlds*.
 
 Wilson, Colin. (1956) *The Outsider*. 
+
+Wooldridge, Micheal. (2020) *The Road to Conscious Machines: The Story of AI*
 
 Zeldin, Theodore. (2015) *The Hidden Pleasures of Life*. 
 
