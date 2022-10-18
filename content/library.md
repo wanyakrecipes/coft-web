@@ -2,7 +2,7 @@
 title = "library"
 +++
 
-A list of articles, books, documentaries, films and records that continue to resonate with me. (last updated 6th October 2022)
+A list of articles, books, documentaries, films and records that continue to resonate with me. (last updated 18th October 2022)
 
 # Literature
 
@@ -37,6 +37,8 @@ Orwell, George. (1934) *Burmese Days*.
 Reynolds, Simon (2013) *Energy Flash*. 
 
 Russell, Bertrand. (1935) *In Praise of Idleness*. 
+
+Sandel, Michael J. (2020) *The Tryanny of Merit: What's Become of the Commmon Good?*
 
 Sinclair, Upton. (1906) *The Jungle*. 
 
