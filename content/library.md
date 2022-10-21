@@ -2,7 +2,9 @@
 title = "library"
 +++
 
-A list of articles, books, documentaries, films and records that continue to resonate with me. (last updated 18th October 2022)
+A list of articles, books, documentaries, films and records that continue to resonate with me. 
+
+(Last updated 21st October 2022)
 
 # Literature
 
@@ -69,6 +71,10 @@ Burial:
 Global Communication:
 * *Pentamerous Metamorphosis* (1993) 
 * *76:14* (1994) 
+
+Hiroshi Yoshimura:
+* *Music For Nine Post Cards* (1982)
+* *Green* (1986)
 
 Talk Talk:
 * *The Colour of Spring* (1986)
