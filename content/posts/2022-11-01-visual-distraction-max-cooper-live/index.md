@@ -2,7 +2,7 @@
 title = "Visual Distractions: Max Cooper 3D/AV"
 date = "2022-11-04"
 publishdate = "2022-11-04"
-slug = "visual-distraction-max-cooper-3d-av-review"
+slug = "visual-distractions-max-cooper-3d-av"
 draft = "false"
 credits = ""
 +++
