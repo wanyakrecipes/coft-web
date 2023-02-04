@@ -1,9 +1,9 @@
 +++
 title = "New Terrain: Portico Quartet Ensemble with Hannah Collins Live"
-date = "2022-02-04"
-publishdate = "2022-02-04"
+date = "2022-02-03"
+publishdate = "2022-02-03"
 slug = "portico-quartet-ensemble-hannah-collins-live-review"
-draft = "true"
+draft = "false"
 credits = ""
 +++
 
