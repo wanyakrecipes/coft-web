@@ -18,3 +18,4 @@ Sister Wanzala:
 * [Bodies on the Loose](https://sisterwanzala.bandcamp.com/album/bodies-on-the-loose-ep) (2016)
 * [The Circus](https://sisterwanzala.bandcamp.com/album/the-circus-ep) (2019)
 * [Perfume](https://sisterwanzala.bandcamp.com/track/perfume) (2022)
+* [Top Drawer](https://sisterwanzala.bandcamp.com/album/top-drawer) (2022)
