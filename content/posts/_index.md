@@ -5,6 +5,5 @@ publishdate = "2017-03-24"
 slug = "posts"
 +++
 
-Here are my thoughts, which I'll share on a Friday, whether short or long.
-
+Here are my thoughts, some short, some long. Currently sharing first Friday of the month.
 
