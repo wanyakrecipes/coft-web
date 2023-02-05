@@ -4,7 +4,7 @@ title = "library"
 
 A list of articles, books, documentaries, films and records that continue to resonate with me. 
 
-(Last updated 21st October 2022)
+(Last updated 5th February 2023)
 
 # Literature
 
@@ -92,16 +92,20 @@ Vangelis - *Blade Runner OST* (1994)
 
 *Akira* (1988)
 
-*Apocalypse Now* (1979)
+<!--*Apocalypse Now* (1979)-->
 
 *Blade Runner* (1982)
 
 *Cowboy Bebop* (1998)
 
-*Full Metal Jacket* (1987)
+<!--*Full Metal Jacket* (1987)-->
 
 *Ghost in the Shell* (1995)
 
-*Paths of Glory* (1957)
+*Mark Hollis on Talk Talk, Making Spirit of Eden & Laughing Stock* [(Link)](https://www.youtube.com/watch?v=lm5Wlj0OWxs&list=PL5zyVd-1emXETUuSm_KdneANnJ9PhtBvq&index=3)
 
-*Spirited Away* (2001)
+*Mix with the Masters: Atticus Ross' Production Process* [(Link)](https://www.youtube.com/watch?v=cDIGsVWtnFY&list=PL5zyVd-1emXETUuSm_KdneANnJ9PhtBvq&index=1&t=8s)
+
+<!--*Paths of Glory* (1957)
+
+*Spirited Away* (2001) -->
