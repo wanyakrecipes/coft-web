@@ -7,7 +7,7 @@ draft = "false"
 credits = ""
 +++
 
-![Legs with jazzy sock resting on a cushion next to plants](finding_shelter.png)
+<!--![Legs with jazzy sock resting on a cushion next to plants](finding_shelter.png)-->
 
 I recently moved house. The following utterance encapsulates my experience:
 

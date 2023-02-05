@@ -7,7 +7,7 @@ draft = "false"
 credits = ""
 +++
 
-![Book on table next to an empty coffee mug.](reading_recs_vol_1.png)
+<!--![Book on table next to an empty coffee mug.](reading_recs_vol_1.png)-->
 
 Here are some books I've read recently. I'm on a non-fiction situation.
 

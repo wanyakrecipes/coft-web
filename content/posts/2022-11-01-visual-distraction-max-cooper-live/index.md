@@ -9,7 +9,7 @@ credits = ""
 
 ## Max Cooper: 3D/AV. Brixton Academy, London. Saturday 29th October 2022.
 
-![Cup of coffee held between legs.](visual_distraction.png)
+<!--![Cup of coffee held between legs.](visual_distraction.png)-->
 
 Right of centre, up against the middle barrier. With dear friends, friends of friends, and acquaintances.
 
