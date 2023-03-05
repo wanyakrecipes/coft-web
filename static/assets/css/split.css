@@ -329,6 +329,15 @@ body.page-template-page-fullsingle-split p {
   margin-bottom: 10px;
 }
 
+.split-bio sup { 
+  font-size: 5px; 
+  line-height: 0; 
+  position: relative; 
+  vertical-align: baseline; 
+  top: -0.8em 
+  
+}
+
 .split-lists .split-list {
   width: 30%;
   display: inline-block;
