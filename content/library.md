@@ -4,13 +4,15 @@ title = "library"
 
 A list of articles, books, documentaries, films and records that continue to resonate with me. 
 
-(Last updated 5th February 2023)
+(Last updated 5th March 2023)
 
 # Literature
 
 Alegre, Susie. (2022) *Freedom to Think: The Long Struggle to Liberate Our Minds*
 
 Ballard, JG. (1971) *Vermilion Sands*. 
+
+Camus, Albert. (1942) *The Outsider*. 
 
 Camus, Albert. (1947) *The Plague*. 
 
@@ -29,6 +31,8 @@ Graeber, David. (2018) *Bullshit Jobs*.
 Greene, Graham. (1958) *Our Man in Havana*. 
 
 Klein, Naomi. (2000) *No Logo*. 
+
+Mate, Gabor. (2022) *The Myth of Normal: Trauma, Illness, & Healing in a Toxic Culture*. 
 
 Mate, Gabor. (2019) *When the Body Says No: The Cost of Hidden Stress*. 
 
