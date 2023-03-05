@@ -31,7 +31,7 @@ I *uber* resonated with [*When the Body Says No*](https://drgabormate.com/book/w
 
 *The Myth of Normal* has moved me to unexpected places that were previously unseen and hazy to me. These places are where I can gather and converse with, as Dr. Maté defines it, my *stubborn friends* [^1]. 
 
-[^1]: (pg.431) Dr. Maté uses the term *stupid friends*, but offers the alternatives *obtuse* and *stubborn*. I prefer the latter.] 
+[^1]: (pg.431) Dr. Maté uses the term *stupid friends*, but offers the alternatives *obtuse* and *stubborn*. I prefer the latter.
 
 Stubborn friends are our inner demons - guilt, self-loathing, shame to name a few - that persist long after they entered into our lives. They once had a purpose to help sooth our pain, but they impede our ability to heal.  
 
