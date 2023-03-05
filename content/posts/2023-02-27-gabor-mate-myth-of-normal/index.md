@@ -1,9 +1,9 @@
 +++
 title = "Stubborn Friends: Dr. Gabor Maté's The Myth of Normal"
-date = "2023-03-05"
-publishdate = "2023-03-05"
+date = "2023-03-10"
+publishdate = "2023-03-10"
 slug = "gabor-mate-myth-of-normal"
-draft = "false"
+draft = "true"
 credits = ""
 +++
 
