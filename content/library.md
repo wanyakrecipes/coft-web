@@ -4,7 +4,7 @@ title = "library"
 
 A list of articles, books, documentaries, films and records that continue to resonate with me. 
 
-(Last updated 5th March 2023)
+(Last updated 7th March 2023)
 
 # Literature
 
@@ -34,7 +34,7 @@ Klein, Naomi. (2000) *No Logo*.
 
 Mate, Gabor. (2022) *The Myth of Normal: Trauma, Illness, & Healing in a Toxic Culture*. 
 
-Mate, Gabor. (2019) *When the Body Says No: The Cost of Hidden Stress*. 
+Mate, Gabor. (2003) *When the Body Says No: The Cost of Hidden Stress*. 
 
 Newport, Cal. (2019) *Digital Minimalism*. 
 
