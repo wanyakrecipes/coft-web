@@ -4,7 +4,7 @@ title = "library"
 
 A list of articles, books, documentaries, films and records that continue to resonate with me. 
 
-(Last updated 7th March 2023)
+(Last updated 18th April 2023)
 
 # Literature
 
