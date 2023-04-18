@@ -32,9 +32,9 @@ Greene, Graham. (1958) *Our Man in Havana*.
 
 Klein, Naomi. (2000) *No Logo*. 
 
-Mate, Gabor. (2022) *The Myth of Normal: Trauma, Illness, & Healing in a Toxic Culture*. 
+Maté, Gabor. (2022) *The Myth of Normal: Trauma, Illness, & Healing in a Toxic Culture*. 
 
-Mate, Gabor. (2003) *When the Body Says No: The Cost of Hidden Stress*. 
+Maté, Gabor. (2003) *When the Body Says No: The Cost of Hidden Stress*. 
 
 Newport, Cal. (2019) *Digital Minimalism*. 
 
@@ -61,6 +61,11 @@ Zeldin, Theodore. (2015) *The Hidden Pleasures of Life*.
 Zuboff, Shoshana. (2019) *The Age of Surveillance Capitalism*. 
 
 # Audio
+
+Aphex Twin:
+
+* *Selected Ambient Works 85-92* (1992)
+* *Selected Ambient Works Volume II* (1994)
 
 B12:
 
