@@ -70,6 +70,15 @@ table {
   margin: 0;
 }
 
+img { /*for images displayed on page*/
+  display: block;
+  align: left;
+  /*margin-left: auto;
+  margin-right: auto;
+  width: 50%;*/
+  width: 350px
+}
+
 img.alignright {
   float: right;
 }
