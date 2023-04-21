@@ -6,6 +6,7 @@ title = "discography"
 
 * [Ubervert / Microcosm](https://councilsofthefuture.bandcamp.com/album/ubervert) (2021)
 * [Pleased to Meet You](https://councilsofthefuture.bandcamp.com/track/pleased-to-meet-you) (2022)
+* [Pleased to Meet You EP](https://councilsofthefuture.bandcamp.com/album/pleased-to-meet-you-ep) (2023)
 
 # Appears on: 
 
