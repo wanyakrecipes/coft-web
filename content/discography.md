@@ -8,7 +8,9 @@ title = "discography"
 * [Pleased to Meet You](https://councilsofthefuture.bandcamp.com/track/pleased-to-meet-you) (2022)
 * [Pleased to Meet You EP](https://councilsofthefuture.bandcamp.com/album/pleased-to-meet-you-ep) (2023)
 
-# Marked Tones
+# Appears on: 
+
+Marked Tones:
 
 * [privacy issues](https://markedtones.bandcamp.com/track/privacy-issues) (2020)
 
