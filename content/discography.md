@@ -10,7 +10,7 @@ title = "discography"
 
 # Appears on: 
 
-## Marked Tones:
+## Marked Tones
 
 * [privacy issues](https://markedtones.bandcamp.com/track/privacy-issues) (2020)
 

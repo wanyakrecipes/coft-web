@@ -12,7 +12,7 @@ Alegre, Susie. (2022) *Freedom to Think: The Long Struggle to Liberate Our Minds
 
 Christian, Brian. (2020) *The Alignment Problem*. 
 
-Fisher, Mark. (2009) *Capitalist Realism: Is there no alternative?*. 
+Fisher, Mark. (2009) *Capitalist Realism: Is there no alternative?*
 
 Fisher, Mark. (2014) *Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures*. 
 
