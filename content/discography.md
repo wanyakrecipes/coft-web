@@ -10,15 +10,15 @@ title = "discography"
 
 # Appears on: 
 
-Marked Tones:
+## Marked Tones:
 
 * [privacy issues](https://markedtones.bandcamp.com/track/privacy-issues) (2020)
 
-# openmode
+## openmode
 
 * [begin EP](https://openmodemusic.bandcamp.com/album/begin-ep) (2024)
 
-# Sister Wanzala
+## Sister Wanzala
 
 * [Bodies on the Loose](https://sisterwanzala.bandcamp.com/album/bodies-on-the-loose-ep) (2016)
 * [The Circus](https://sisterwanzala.bandcamp.com/album/the-circus-ep) (2019)
