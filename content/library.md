@@ -4,9 +4,85 @@ title = "library"
 
 A list of articles, books, documentaries, films and records that continue to resonate with me. 
 
+# Audio
+
+Aphex Twin:
+
+* *Selected Ambient Works 85-92* (1992)
+* *Selected Ambient Works Volume II* (1994)
+
+B12:
+
+* *Electro-Soma* (1993)
+* *Time Tourist* (1995) 
+
+Brian Eno:
+
+* Another Green World (1975)
+* Atmospheres and Soundtracks (1983)
+
+Burial:
+* *Untrue* (2007) 
+* *Kindred* (2012) 
+* *Rival Dealer* (2013) 
+
+Global Communication:
+* *Pentamerous Metamorphosis* (1993) 
+* *76:14* (1994) 
+
+Hiroshi Yoshimura:
+* *Music For Nine Post Cards* (1982)
+* *Green* (1986)
+* *Surround* (1986)
+
+Talk Talk:
+* *The Colour of Spring* (1986)
+* *Spirit of Eden* (1988)
+* *Laughing Stock* (1991)
+
+Tool - *Lateralus* (2001) 
+
+Vangelis - *Blade Runner OST* (1994) 
+
 # Literature
 
 ## Fiction
+
+Amis, Martin. (1984) *Money*.
+
+Azumah Nelson, Caleb. (2021) *Open Water*.
+
+Ballard, JG. (1971) *Vermilion Sands*. 
+
+Baldwin, James. (1953) *Go Tell it on the Mountain*.
+
+Camus, Albert. (1942) *The Outsider*. 
+
+Camus, Albert. (1947) *The Plague*. 
+
+Caterescu, Micea. (2015) *Solenoid*.
+
+Cohelo, Paulo. (1988) *The Alchemist*.
+
+Dick, Philip K. (1968) *Do Androids Dream of Electric Sheep?*.
+
+Ellison, Ralph. (1952) *Invisible Man*.
+
+Greene, Graham. (1958) *Our Man in Havana*. 
+
+Kang, Han. (2007) *The Vegeterian*.
+
+Lee, Min Jin. (2017) *Pachinko*.
+
+Selby Jr, Hubert. (1978) *Requiem for a Dream*. 
+
+Sinclair, Upton. (1906) *The Jungle*.
+
+Tokarczuk, Olga. (2009) *Drive Your Plow Over the Bones of the Dead*. 
+
+Williams, John. (1965) *Stoner*.
+
+## Non-Fiction
 
 Alegre, Susie. (2022) *Freedom to Think: The Long Struggle to Liberate Our Minds*.
 
@@ -53,84 +129,6 @@ Wooldridge, Micheal. (2020) *The Road to Conscious Machines: The Story of AI*
 Zeldin, Theodore. (2015) *The Hidden Pleasures of Life*. 
 
 Zuboff, Shoshana. (2019) *The Age of Surveillance Capitalism*. 
-
-## Non Fiction
-
-Amis, Martin. (1984) *Money*.
-
-Azumah Nelson, Caleb. (2021) *Open Water*.
-
-Ballard, JG. (1971) *Vermilion Sands*. 
-
-Baldwin, James. (1953) *Go Tell it on the Mountain*.
-
-Camus, Albert. (1942) *The Outsider*. 
-
-Camus, Albert. (1947) *The Plague*. 
-
-Caterescu, Micea. (2015) *Solenoid*.
-
-Cohelo, Paulo. (1988) *The Alchemist*.
-
-Dick, Philip K. (1968) *Do Androids Dream of Electric Sheep?*.
-
-Ellison, Ralph. (1952) *Invisible Man*.
-
-Greene, Graham. (1958) *Our Man in Havana*. 
-
-Kang, Han. (2007) *The Vegeterian*.
-
-Lee, Min Jin. (2017) *Pachinko*.
-
-Selby Jr, Hubert. (1978) *Requiem for a Dream*. 
-
-Sinclair, Upton. (1906) *The Jungle*.
-
-Tokarczuk, Olga. (2009) *Drive Your Plow Over the Bones of the Dead*. 
-
-Williams, John. (1965) *Stoner*.
-
-
-# Audio
-
-Aphex Twin:
-
-* *Selected Ambient Works 85-92* (1992)
-* *Selected Ambient Works Volume II* (1994)
-
-B12:
-
-* *Electro-Soma* (1993)
-* *Time Tourist* (1995) 
-
-Brian Eno:
-
-* Another Green World (1975)
-* Atmospheres and Soundtracks (1983)
-
-Burial:
-* *Untrue* (2007) 
-* *Kindred* (2012) 
-* *Rival Dealer* (2013) 
-
-Global Communication:
-* *Pentamerous Metamorphosis* (1993) 
-* *76:14* (1994) 
-
-Hiroshi Yoshimura:
-* *Music For Nine Post Cards* (1982)
-* *Green* (1986)
-* *Surround* (1986)
-
-Talk Talk:
-* *The Colour of Spring* (1986)
-* *Spirit of Eden* (1988)
-* *Laughing Stock* (1991)
-
-Tool - *Lateralus* (2001) 
-
-Vangelis - *Blade Runner OST* (1994) 
-
 
 # Visual
 
