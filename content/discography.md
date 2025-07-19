@@ -17,6 +17,7 @@ title = "discography"
 ## openmode
 
 * [begin EP](https://openmodemusic.bandcamp.com/album/begin-ep) (2024)
+* [latent bangers vol. 1](https://openmodemusic.bandcamp.com/album/latent-bangers-vol-1) (2025)
 
 ## Sister Wanzala
 
