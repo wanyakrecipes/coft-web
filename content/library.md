@@ -90,6 +90,8 @@ Alegre, Susie. (2022) *Freedom to Think: The Long Struggle to Liberate Our Minds
 
 Christian, Brian. (2020) *The Alignment Problem*. 
 
+Fernando Jr. S. H. (2025) *The Chronicles of DOOM: Unravelling Rap’s Masked Iconoclast*
+
 Fisher, Mark. (2009) *Capitalist Realism: Is there no alternative?*
 
 Fisher, Mark. (2014) *Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures*. 
@@ -120,9 +122,13 @@ Russell, Bertrand. (1935) *In Praise of Idleness*.
 
 Sandel, Michael J. (2020) *The Tryanny of Merit: What's Become of the Commmon Good?*.
 
+Savage, Jon. (2020) *Joy Division: This Searing Light, the Sun and Everything Else* 
+
 Toffler, Alvin. (1973) *Future Shock*. 
 
 Toop, David. (1995) *Ocean of Sound: Aether Talk, Ambient Sound and Imaginary Worlds*.
+
+Varoufakis, Yanis. (2023) *Technofeudalism*.
 
 Wilson, Colin. (1956) *The Outsider*. 
 
