@@ -80,6 +80,8 @@ Sinclair, Upton. (1906) *The Jungle*.
 
 Tokarczuk, Olga. (2009) *Drive Your Plow Over the Bones of the Dead*. 
 
+Wallace, David Foster. (1996) *Infinite Jest*.
+
 Williams, John. (1965) *Stoner*.
 
 ## Non-Fiction
