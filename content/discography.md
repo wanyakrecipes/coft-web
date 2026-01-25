@@ -25,3 +25,6 @@ title = "discography"
 * [The Circus](https://sisterwanzala.bandcamp.com/album/the-circus-ep) (2019)
 * [Perfume](https://sisterwanzala.bandcamp.com/track/perfume) (2022)
 * [Top Drawer](https://sisterwanzala.bandcamp.com/album/top-drawer) (2022)
+* [Now You're Mine](https://sisterwanzala.bandcamp.com/track/now-youre-mine) (2025)
+* [Winter Dominos](https://sisterwanzala.bandcamp.com/track/winter-dominos) (2025)
+* [Don't Be Good to Me](https://sisterwanzala.bandcamp.com/track/dont-be-good-to-me) (2026)
