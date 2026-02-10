@@ -7,7 +7,7 @@
     </article>
     <ul class = "split-bio">
     <!-- Ranges through content/posts/*.md -->
-    {{ range .Paginator.Pages }}
+    {{ range .Pages }}
         <li>
             <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
         </li>
